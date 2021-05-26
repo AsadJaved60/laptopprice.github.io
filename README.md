@@ -1,1 +1,1 @@
-# laptopprice.github.io
+home.html
